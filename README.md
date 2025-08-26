@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=120&text=Oğulcan%20Eğri&fontColor=E2E8F0&fontAlign=50&fontSize=48&desc=Web%20Front-End%20%26%20Siber%20Güvenlik&descAlign=50&descAlignY=75&descSize=16](https://photos.app.goo.gl/HxtwfMgMwVUQG5xW7)"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=120&text=Oğulcan%20Eğri&fontColor=E2E8F0&fontAlign=50&fontSize=48&desc=Web%20Front-End%20%26%20Siber%20Güvenlik&descAlign=50&descAlignY=75&descSize=16](https://photos.app.goo.gl/HxtwfMgMwVUQG5xW7)"/>
 </p>
 
 <!-- Typing -->
