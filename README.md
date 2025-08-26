@@ -37,6 +37,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ogulcanegridev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ogulcanegridev&theme=tokyonight&hide_border=true" height="165" />
-</p>
