@@ -4,16 +4,10 @@
 
 <!-- Sosyal Medya -->
 <p align="center">
-  <a href="https://github.com/kullaniciadiniz" target="_blank">
+  <a href="https://github.com/ogulcanegridev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/kullaniciadiniz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="https://twitter.com/kullaniciadiniz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
-  </a>
-  <a href="mailto:mailadresiniz@gmail.com" target="_blank">
+  <a href="mailto:ogulcanegri0619@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
